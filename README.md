@@ -42,7 +42,7 @@ Download the following files to help you get started:
 
 https://static.bc-edx.com/data/dl-1-2/m6/lms/starter/Starter_Code.zip
 
-### Instructions
+# Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 ### Part 1: WeatherPy
